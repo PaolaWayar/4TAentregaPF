@@ -1,0 +1,20 @@
+/* media querys */
+
+@media only screen and (max-width: 480px) {
+	body {
+		background-color: rgb(163, 109, 38);
+	}
+}
+
+/* media querys del footer */
+@media screen and (max-width: 1100px) {
+	.container-body {
+		flex-wrap: wrap;
+	}
+	.columna2 {
+		margin-top: 40px;
+	}
+	.columna3 {
+		margin-top: 40px;
+	}
+}
